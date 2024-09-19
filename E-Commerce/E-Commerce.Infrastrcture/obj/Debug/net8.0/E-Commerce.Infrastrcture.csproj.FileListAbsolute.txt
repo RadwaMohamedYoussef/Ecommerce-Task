@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Infrastrcture.deps.json
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Infrastrcture.runtimeconfig.json
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Infrastrcture.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Infrastrcture.pdb
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.AssemblyInfo.cs
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\refint\E-Commerce.Infrastrcture.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.pdb
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\E-Commerce.Infrastrcture.genruntimeconfig.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Infrastrcture\obj\Debug\net8.0\ref\E-Commerce.Infrastrcture.dll

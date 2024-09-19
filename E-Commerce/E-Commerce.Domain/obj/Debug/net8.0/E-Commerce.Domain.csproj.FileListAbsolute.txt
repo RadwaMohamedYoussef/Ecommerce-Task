@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.deps.json
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.runtimeconfig.json
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\refint\E-Commerce.Domain.dll
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.genruntimeconfig.cache
+C:\Users\DELL\Desktop\E-Commerce API\E-Commerce\E-Commerce.Domain\obj\Debug\net8.0\ref\E-Commerce.Domain.dll
